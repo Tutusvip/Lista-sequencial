@@ -3,11 +3,11 @@
 
 int main(){
 	setlocale(LC_ALL, "portuguese_Brazil");
-	int A, B, X;
+	int a, b, x;
 	
-	A = 20;
-	B = 46;
-	X = A + B;
+	a = 20;
+	b = 46;
+	x = a + b;
 	
-	printf("O valor da soma é: %d", X);
+	printf("O valor da soma é: %d", x);
 }
